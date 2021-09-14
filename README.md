@@ -1,2 +1,1 @@
-# web tasarim
- web sayfasi
+
