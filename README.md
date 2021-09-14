@@ -1,2 +1,2 @@
-# web tasarım
- web sayfası
+# web tasarim
+ web sayfasi
